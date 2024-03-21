@@ -1,0 +1,1 @@
+# languagesettings.js
